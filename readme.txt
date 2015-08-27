@@ -8,7 +8,7 @@ I NEED TO MAKE A VIDEO TO SHOW HOW TO DO THIS WHEN I FINISH THE GAME (earlier wi
    - Use "cd foldername" to go to that directory, provided it's in the current directory
    - Use "dir" to see the files available in your current directory
    - Use "cd .." to go back a directory
-   - Command line will look like the following when you're ready to press enter and start the game
+   - Command line will look like the following when you're ready to press enter
      - C:\Folder1\Folder2\ATFC>python ATFC.py
 5) Play the game!
 
