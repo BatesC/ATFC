@@ -1,3 +1,5 @@
+I NEED TO MAKE A VIDEO TO SHOW HOW TO DO THIS WHEN I FINISH THE GAME (earlier will show them where the game is and they will get an unfinished version)
+
 # Instructions
 1) Download the zip file at the bottom right of the file page (https://github.com/BatesC/ATFC)
 2) Extract the game folder into a folder that's easily accessible (C:\ATFC rather than C:\Program Files x86\MemeFolder1\Pepe\Rare\ATFC)
